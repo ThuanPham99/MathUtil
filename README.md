@@ -11,5 +11,6 @@ of Introduction to Software Engineering course at FPT University - HCMC Campus
 ## Connect me via
 1. [GitHub] (https://github.com/ThuanPham99)
 2. [Facebook] (https://www.facebook.com/pham.thuan.73594)
+3. [Gmail](mail : thuanpqse130420@fpt.edu.vn)
 
 ### © 2020 by PhamThuan

@@ -19,7 +19,7 @@ public class MathUtilTest {
     
     @Test
     public void testSuccessfulCases(){
-        Assert.assertEquals(120, computeFactorial(5));
+        Assert.assertEquals(12, computeFactorial(5));
     }
 //    @Test(expected =  IllegalArgumentException.class)
 //    public void testFailedCases(){

@@ -16,7 +16,9 @@ public class MathUtil {
     public static long computeFactorial(int n){
         
         long result = 1;
-        
+        // ham se nem ve ngoai le neu ban dau vao n ca chớn
+        if(n< 0 || n > 15)
+            throw new IllegalArgumentException("Invaild argument. n must be >= 0 % <=15");
         for (int i = 1; i <= n; i++) {
             result *= i;
         }
